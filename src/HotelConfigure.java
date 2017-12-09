@@ -3,7 +3,7 @@
  * provides simple user interface, which allows to choose hotel name,
  * number of rooms, and for each room choose the number and size of beds.
  *
- * @author David Smirnov
+ * 
  */
 
 import java.util.Scanner;
@@ -35,7 +35,6 @@ public class HotelConfigure {
 					h.setBedSize(k.next());
 				}*/
 			}
-			System.out.println(r.getBedNumber(1));
 			HotelReport hr = new HotelReport();
 			//the user is given a report about the created hotel
 			hr.giveReport(h, r, b);

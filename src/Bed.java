@@ -1,7 +1,7 @@
 /**
  * The Bed class stores the size of each bed in the hotel.
  * 
- * @author David Smirnov
+ * 
  */
 //import java.util.List;
 //import java.util.ArrayList;

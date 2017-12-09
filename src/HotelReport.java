@@ -3,7 +3,7 @@
  * produces short textual report about the created Hotel:
  * it shows the name of the hotel, the number of rooms and, for each room,lists the number  and size of the beds.
  * 
- * @author David Smirnov
+ * 
  */
 public class HotelReport {
 	public void giveReport(Hotel h, Room r, Bed b) {
