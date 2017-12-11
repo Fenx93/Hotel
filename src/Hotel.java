@@ -1,7 +1,7 @@
 /**
  * The Hotel class stores the name of hotel and number of the rooms.
  * 
- * 
+ * @author David Smirnov
  */
 
 public class Hotel {
